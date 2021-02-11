@@ -41,6 +41,7 @@ main {
 .nav-wrapper {
   background-color: white !important;
   color: black !important;
+  font-size: 24px;
 }
 
 .sidenav {
@@ -65,4 +66,8 @@ a {
 
 .footerColor {
   color: black;
+}
+
+.jumbo {
+  color: white;
 }
